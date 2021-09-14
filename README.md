@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=FH-30&show_icons=true&theme=vue-dark)
+![Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=FH-30&show_icons=true)
 
 <!--
 **FH-30/FH-30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
